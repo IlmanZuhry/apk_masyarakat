@@ -1,6 +1,6 @@
 # Aplikasi Pelaporan Pengaduan Masyarakat
 
-![Logo](gambar/logoo.png)
+
 
 ## 📋 Deskripsi Proyek
 
